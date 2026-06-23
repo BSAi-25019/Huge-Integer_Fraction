@@ -8,9 +8,6 @@ By bridging pure object-oriented architecture with low-level systems logic, this
 
 ## 📸 Interactive System Previews
 
-> 📥 **How to upload your screenshots:** > 1. Take screenshots of your console menus executing.
-> 2. Save them inside your project repository folder as `menu_hub.png` and `execution_demo.png`.
-> 3. When you push them via GitHub Desktop, they will instantly display inside the windows below!
 
 <div align="center">
   <img src="HI1.png" alt="Mathematical Operations Terminal" width="800"/>
